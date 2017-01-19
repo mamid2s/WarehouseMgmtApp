@@ -1,0 +1,87 @@
+D:\Work\Warehouse Mgmt\WarehouseMgmt\bin\Debug\WarehouseMgmt.exe
+D:\Work\Warehouse Mgmt\WarehouseMgmt\bin\Debug\WarehouseMgmt.pdb
+D:\Work\Warehouse Mgmt\WarehouseMgmt\bin\Debug\WarehouseMgmt.xml
+D:\Work\Warehouse Mgmt\WarehouseMgmt\obj\Debug\WarehouseMgmt.Login.resources
+D:\Work\Warehouse Mgmt\WarehouseMgmt\obj\Debug\WarehouseMgmt.Resources.resources
+D:\Work\Warehouse Mgmt\WarehouseMgmt\obj\Debug\WarehouseMgmt.vbproj.GenerateResource.Cache
+D:\Work\Warehouse Mgmt\WarehouseMgmt\obj\Debug\WarehouseMgmt.exe
+D:\Work\Warehouse Mgmt\WarehouseMgmt\obj\Debug\WarehouseMgmt.xml
+D:\Work\Warehouse Mgmt\WarehouseMgmt\obj\Debug\WarehouseMgmt.pdb
+D:\Work\Warehouse Mgmt\WarehouseMgmt\obj\Debug\WarehouseMgmt.HomePage.resources
+D:\Work\Warehouse Mgmt\WarehouseMgmt\bin\Debug\WarehouseMgmt.exe.config
+D:\Work\Warehouse Mgmt\WarehouseMgmt\bin\Debug\MySql.Data.dll
+D:\Work\Warehouse Mgmt\WarehouseMgmt\obj\Debug\WarehouseMgmt.vbprojResolveAssemblyReference.cache
+D:\Work\Warehouse Mgmt\WarehouseMgmt\obj\Debug\WarehouseMgmt.CategoryMaster.resources
+D:\Work\Warehouse Mgmt\WarehouseMgmt\obj\Debug\WarehouseMgmt.ChangePassword.resources
+D:\Work\Warehouse Mgmt\WarehouseMgmt\obj\Debug\WarehouseMgmt.InTakeOrder.resources
+D:\Work\Warehouse Mgmt\WarehouseMgmt\obj\Debug\WarehouseMgmt.Registration.resources
+D:\Work\Warehouse Mgmt\WarehouseMgmt\obj\Debug\WarehouseMgmt.StockMaster.resources
+D:\Work\Warehouse Mgmt\WarehouseMgmt\obj\Debug\WarehouseMgmt.Transactions.resources
+D:\Work\Warehouse Mgmt\WarehouseMgmt\obj\Debug\WarehouseMgmt.CategoryList.resources
+D:\Work\Warehouse Mgmt\WarehouseMgmt\obj\Debug\WarehouseMgmt.EmployeeList.resources
+D:\Work\Warehouse Mgmt\WarehouseMgmt\obj\Debug\WarehouseMgmt.StockList.resources
+C:\Users\user\Downloads\Warehouse Management System\WarehouseMgmt\bin\Debug\WarehouseMgmt.exe.config
+C:\Users\user\Downloads\Warehouse Management System\WarehouseMgmt\obj\Debug\WarehouseMgmt.exe
+C:\Users\user\Downloads\Warehouse Management System\WarehouseMgmt\obj\Debug\WarehouseMgmt.xml
+C:\Users\user\Downloads\Warehouse Management System\WarehouseMgmt\obj\Debug\WarehouseMgmt.pdb
+C:\Users\user\Downloads\Warehouse Management System\WarehouseMgmt\bin\Debug\WarehouseMgmt.exe
+C:\Users\user\Downloads\Warehouse Management System\WarehouseMgmt\bin\Debug\WarehouseMgmt.pdb
+C:\Users\user\Downloads\Warehouse Management System\WarehouseMgmt\bin\Debug\WarehouseMgmt.xml
+C:\Users\user\Downloads\Warehouse Management System\WarehouseMgmt\bin\Debug\MySql.Data.dll
+C:\Users\user\Downloads\Warehouse Management System\WarehouseMgmt\obj\Debug\WarehouseMgmt.vbprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\Warehouse Management System\WarehouseMgmt\obj\Debug\WarehouseMgmt.CategoryList.resources
+C:\Users\user\Downloads\Warehouse Management System\WarehouseMgmt\obj\Debug\WarehouseMgmt.CategoryMaster.resources
+C:\Users\user\Downloads\Warehouse Management System\WarehouseMgmt\obj\Debug\WarehouseMgmt.ChangePassword.resources
+C:\Users\user\Downloads\Warehouse Management System\WarehouseMgmt\obj\Debug\WarehouseMgmt.EmployeeList.resources
+C:\Users\user\Downloads\Warehouse Management System\WarehouseMgmt\obj\Debug\WarehouseMgmt.InTakeOrder.resources
+C:\Users\user\Downloads\Warehouse Management System\WarehouseMgmt\obj\Debug\WarehouseMgmt.Login.resources
+C:\Users\user\Downloads\Warehouse Management System\WarehouseMgmt\obj\Debug\WarehouseMgmt.HomePage.resources
+C:\Users\user\Downloads\Warehouse Management System\WarehouseMgmt\obj\Debug\WarehouseMgmt.Resources.resources
+C:\Users\user\Downloads\Warehouse Management System\WarehouseMgmt\obj\Debug\WarehouseMgmt.Registration.resources
+C:\Users\user\Downloads\Warehouse Management System\WarehouseMgmt\obj\Debug\WarehouseMgmt.StockList.resources
+C:\Users\user\Downloads\Warehouse Management System\WarehouseMgmt\obj\Debug\WarehouseMgmt.StockMaster.resources
+C:\Users\user\Downloads\Warehouse Management System\WarehouseMgmt\obj\Debug\WarehouseMgmt.Transactions.resources
+C:\Users\user\Downloads\Warehouse Management System\WarehouseMgmt\obj\Debug\WarehouseMgmt.vbproj.GenerateResource.Cache
+D:\ms projects\Final\WarehouseMgmt\bin\Debug\WarehouseMgmt.exe.config
+D:\ms projects\Final\WarehouseMgmt\bin\Debug\WarehouseMgmt.exe
+D:\ms projects\Final\WarehouseMgmt\bin\Debug\WarehouseMgmt.pdb
+D:\ms projects\Final\WarehouseMgmt\bin\Debug\WarehouseMgmt.xml
+D:\ms projects\Final\WarehouseMgmt\bin\Debug\MySql.Data.dll
+D:\ms projects\Final\WarehouseMgmt\obj\Debug\WarehouseMgmt.CategoryList.resources
+D:\ms projects\Final\WarehouseMgmt\obj\Debug\WarehouseMgmt.CategoryMaster.resources
+D:\ms projects\Final\WarehouseMgmt\obj\Debug\WarehouseMgmt.ChangePassword.resources
+D:\ms projects\Final\WarehouseMgmt\obj\Debug\WarehouseMgmt.EmployeeList.resources
+D:\ms projects\Final\WarehouseMgmt\obj\Debug\WarehouseMgmt.InTakeOrder.resources
+D:\ms projects\Final\WarehouseMgmt\obj\Debug\WarehouseMgmt.Login.resources
+D:\ms projects\Final\WarehouseMgmt\obj\Debug\WarehouseMgmt.HomePage.resources
+D:\ms projects\Final\WarehouseMgmt\obj\Debug\WarehouseMgmt.Resources.resources
+D:\ms projects\Final\WarehouseMgmt\obj\Debug\WarehouseMgmt.Registration.resources
+D:\ms projects\Final\WarehouseMgmt\obj\Debug\WarehouseMgmt.StockList.resources
+D:\ms projects\Final\WarehouseMgmt\obj\Debug\WarehouseMgmt.StockMaster.resources
+D:\ms projects\Final\WarehouseMgmt\obj\Debug\WarehouseMgmt.Transactions.resources
+D:\ms projects\Final\WarehouseMgmt\obj\Debug\WarehouseMgmt.vbproj.GenerateResource.Cache
+D:\ms projects\Final\WarehouseMgmt\obj\Debug\WarehouseMgmt.exe
+D:\ms projects\Final\WarehouseMgmt\obj\Debug\WarehouseMgmt.xml
+D:\ms projects\Final\WarehouseMgmt\obj\Debug\WarehouseMgmt.pdb
+E:\WarehouseMgmt\bin\Debug\WarehouseMgmt.exe.config
+E:\WarehouseMgmt\obj\Debug\WarehouseMgmt.exe
+E:\WarehouseMgmt\obj\Debug\WarehouseMgmt.xml
+E:\WarehouseMgmt\obj\Debug\WarehouseMgmt.pdb
+E:\WarehouseMgmt\bin\Debug\WarehouseMgmt.exe
+E:\WarehouseMgmt\bin\Debug\WarehouseMgmt.pdb
+E:\WarehouseMgmt\bin\Debug\WarehouseMgmt.xml
+E:\WarehouseMgmt\bin\Debug\MySql.Data.dll
+E:\WarehouseMgmt\obj\Debug\WarehouseMgmt.vbprojResolveAssemblyReference.cache
+E:\WarehouseMgmt\obj\Debug\WarehouseMgmt.CategoryList.resources
+E:\WarehouseMgmt\obj\Debug\WarehouseMgmt.CategoryMaster.resources
+E:\WarehouseMgmt\obj\Debug\WarehouseMgmt.ChangePassword.resources
+E:\WarehouseMgmt\obj\Debug\WarehouseMgmt.EmployeeList.resources
+E:\WarehouseMgmt\obj\Debug\WarehouseMgmt.InTakeOrder.resources
+E:\WarehouseMgmt\obj\Debug\WarehouseMgmt.Login.resources
+E:\WarehouseMgmt\obj\Debug\WarehouseMgmt.HomePage.resources
+E:\WarehouseMgmt\obj\Debug\WarehouseMgmt.Resources.resources
+E:\WarehouseMgmt\obj\Debug\WarehouseMgmt.Registration.resources
+E:\WarehouseMgmt\obj\Debug\WarehouseMgmt.StockList.resources
+E:\WarehouseMgmt\obj\Debug\WarehouseMgmt.StockMaster.resources
+E:\WarehouseMgmt\obj\Debug\WarehouseMgmt.Transactions.resources
+E:\WarehouseMgmt\obj\Debug\WarehouseMgmt.vbproj.GenerateResource.Cache
